@@ -1,4 +1,6 @@
 # Point_Cloud_Single_Photo
+
+<a href="https://colab.research.google.comgithub.com/Gainward777/Point_Cloud_Single_Photo/blob/main/PointCloud.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></br>
 A simple implementation of a way to get a field of points from a single photo.
 
 This notebook was used for various tests in the development of a solution for predicting the results of plastic surgery for breast augmentation. Including to determine the main development vector, as well as the possibility of using non-standard or segenerated images for further training of the main model.</br>
